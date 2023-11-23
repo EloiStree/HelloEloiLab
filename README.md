@@ -5,7 +5,7 @@ Quest | Lynx
 [![EloiLabThumbSideQuest_Quest](https://github.com/EloiStree/HelloEloiLab/assets/20149493/9552c634-a2a2-4929-8f69-63f2561cc54f)](https://github.com/EloiStree/EloiExpLab_Quest3Release) | [![EloiLabThumbSideQuest_Lynx](https://github.com/EloiStree/HelloEloiLab/assets/20149493/aa461a84-757f-4ab1-9a61-06581a608c9a)](https://github.com/EloiStree/EloiExpLab_LynxRelease)  
 [https://github.com/EloiStree/EloiExpLab_Quest3Release](https://github.com/EloiStree/EloiExpLab_Quest3Release) | [https://github.com/EloiStree/EloiExpLab_LynxRelease](https://github.com/EloiStree/EloiExpLab_LynxRelease)
 [https://sidequestvr.com/app/25284/eloi-experiments-lab-quest-3](https://sidequestvr.com/app/25284/eloi-experiments-lab-quest-3) | [https://sidequestvr.com/app/25889/eloi-exp-lab-lynx-r1-only](https://sidequestvr.com/app/25889/eloi-exp-lab-lynx-r1-only)
-
+ - | [https://portal.lynx-r.com/apps/view/4/eloi-lab](https://portal.lynx-r.com/apps/view/4/eloi-lab)
 Steam VR: _(incoming)_
 Oculus Lab: _(incoming)_
 
